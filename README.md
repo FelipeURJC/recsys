@@ -1,4 +1,6 @@
 # recsys
-Lecture materials for "recommender systems" @ http://www.masterdatascience.es
+Lecture materials for "recommender systems" @ http://www.masterdatascience.es. In this lecture, we buil a recommender system from the scratch using different techniques.
 
-A recommender system is built from the scratch using different techniques. You might want to try [surprise](http://surpriselib.com) library as an alternative programming solution.
+## Alternatives
+- You might want to try [surprise](http://surpriselib.com) or
+- Take a look to this repo about [recommenders](A recommender system is built from the scratch using different techniques.)
